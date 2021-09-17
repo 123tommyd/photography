@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://https://123tommyd.github.io/photography/"
+    "url": "git+https://123tommyd.github.io/photography/"
   },
   "keywords": [
     "photography",
@@ -22,9 +22,9 @@
   "author": "Ram Patra",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://https://123tommyd.github.io/photography/issues"
+    "url": "https://123tommyd.github.io/photography/issues"
   },
-  "homepage": "https://https://123tommyd.github.io/photography#readme",
+  "homepage": "https://123tommyd.github.io/photography#readme",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
